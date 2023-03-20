@@ -9,7 +9,7 @@
 
 </div>
 
-### Hi! Thank you for visiting👏
+### Hi! Welcome to my github💘
 ---
 
 **Main skil**
