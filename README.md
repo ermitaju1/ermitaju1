@@ -1,11 +1,11 @@
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoongchan789&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woongchan789)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fermitaju1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ermitaju1)
 
 
 <div align=center>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=WoongChan%20Nam&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Seunghee%20Nam&fontSize=40&fontColor=ffffff" />
 
 </div>
 
@@ -38,7 +38,7 @@
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&">
   <a>
 
-  <a href="https://woongchan789.tistory.com/" height="5" width="10" target="_blank">
+  <a href="https://nyaaaaam.tistory.com/" height="5" width="10" target="_blank">
      <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&">
   <a>     
 </p>
@@ -46,6 +46,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woongchan789&show_icons=true&theme=chartreuse-dark" align="center" width="49%">
-  <img src="https://leetcode-stats-six.vercel.app/?username=woongchannam&theme=dark" align="center" width="44%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ermitaju1&show_icons=true&theme=chartreuse-dark" align="center" width="49%">
+  <img src="https://leetcode-stats-six.vercel.app/?username=seungheechoi&theme=dark" align="center" width="44%">
 </p>
