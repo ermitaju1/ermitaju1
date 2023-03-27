@@ -34,10 +34,3 @@
      <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&">
   <a>     
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ermitaju1&show_icons=true&theme=chartreuse-dark" align="center" width="49%">
-  <img src="https://leetcode-stats-six.vercel.app/?username=seungheechoi&theme=dark" align="center" width="44%">
-</p>
